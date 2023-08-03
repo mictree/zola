@@ -5,8 +5,8 @@ Zola is a social media for Vietnamese.
 
 ## Screenshots
 
-Link to test with web version: https://zola-social.netlify.app/
-Download the android version: https://github.com/mtri-git/zola/blob/main/android_app/app-release.apk 
+#### Link to test with web version: https://zola-social.netlify.app/
+#### Download the android version: https://github.com/mtri-git/zola/blob/main/android_app/app-release.apk 
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 

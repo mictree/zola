@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "617388041925",
+    "project_id": "zola-firebase",
+    "storage_bucket": "zola-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617388041925:android:670497d5838425023d32ac",
+        "android_client_info": {
+          "package_name": "com.example.zola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617388041925-vv34a630lllim8s9ne7orhbkdtig6tgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbUNWJaCiJTXkcYWDrh-JexWovyCIrm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617388041925-vv34a630lllim8s9ne7orhbkdtig6tgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617388041925-ge3iaf63hint7t5871mn8ee90qfpgfsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zola"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>617388041925-ge3iaf63hint7t5871mn8ee90qfpgfsg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.617388041925-ge3iaf63hint7t5871mn8ee90qfpgfsg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGxpG7PzZyjCCo3KPYgtVKOt6v19gZ3SA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>617388041925</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zola</string>
+	<key>PROJECT_ID</key>
+	<string>zola-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zola-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:617388041925:ios:eeb61a2f6375b0823d32ac</string>
+</dict>
+</plist>

@@ -1,0 +1,133 @@
+.new {
+  width: 100%;
+  display: flex;
+
+  .newContainer {
+    flex: 6;
+    
+    .top,
+    .bottom {
+      -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+      box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+      padding: 10px;
+      margin: 20px;
+      display: flex;
+
+      h1 {
+        color: lightgray;
+        font-size: 20px;
+      }
+
+      .left {
+        flex: 1;
+        text-align: center;
+
+        .postInfo {
+          flex-wrap: wrap;
+          gap: 30px;
+          justify-content: space-around;
+          font-size: 14px;
+
+          .formInput {
+            width: 80%;
+            display: flex;
+            white-space: 1rem;
+            // justify-content: center;
+            
+            img {
+              flex: 1;
+              width: 32px;
+              height: 32px;
+              border-radius: 50%;
+              object-fit: cover;
+            }
+
+            label {
+              flex: 1;
+              text-align: start;
+              padding: .5rem;
+              gap: 5px;
+              font-weight: bold;
+              color: gray;
+              // margin-right: .5rem;
+
+              .icon {
+                cursor: pointer;
+              }
+            }
+
+            .infoContent {
+              flex: 2;
+              text-align: left;
+              margin-top: auto;
+              margin-bottom: auto;
+              margin-right: auto;
+            }
+          }
+        }
+      }
+
+      .right {
+        flex: 2;
+
+        .postContent {
+          padding-top: 2rem;
+
+          .book-image {
+            border-radius: 0;
+            width: 200px;
+          }
+
+          .mainContent {
+            min-height: 5rem;
+            margin-top: 20px;
+          }
+        }
+
+        .interact-info {
+          display: flex;
+          padding-top: 2rem;
+          gap: 1rem;
+
+          .favorite-icon {
+            color: red;
+          }
+
+          .comment-icon {
+            color: blue;
+          }
+        }
+
+        .postOrigin {
+          padding-top: 2rem;
+        }
+      }
+    }
+
+    .button-wrapper {
+      margin-top: 10px;
+      display: flex;
+      gap: 2rem;
+
+      .send-button {
+        width: 150px;
+        padding: 10px;
+        border: none;
+        background-color: teal;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      .delete-button {
+        width: 150px;
+        padding: 10px;
+        border: none;
+        background-color: rgb(128, 23, 0);
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+      }
+    }
+  }
+}

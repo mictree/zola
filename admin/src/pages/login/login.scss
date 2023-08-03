@@ -1,0 +1,33 @@
+#login-background{
+    background-image: linear-gradient(orange, purple);
+    height: 100vh;
+}
+
+.login-form{
+    border: 1px;
+    margin: auto;
+    transform: translateY(10rem);
+    width: 20rem;
+    padding: 2rem;
+    border-style: solid;
+    border-radius: 1rem;
+    background-color: white;
+    
+    .login-button{
+        margin:  auto;
+        background-color: purple !important;
+        color: white !important;
+    }
+
+    .input-field{
+        padding: 1rem;
+        display: flex;
+        
+        .input-label{
+            flex: 1
+        }
+    }
+        
+}
+
+
